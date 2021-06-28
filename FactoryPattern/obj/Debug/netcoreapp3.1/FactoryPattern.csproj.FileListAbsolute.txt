@@ -1,0 +1,13 @@
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache
